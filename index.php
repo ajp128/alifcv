@@ -189,6 +189,8 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/alip_87/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
+                         <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/6283815150606"><i
+                                class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <!-- Team Item 2-->
@@ -201,6 +203,8 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/ghozay19/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
+                         <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/628111443199"><i
+                                class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <!-- Team Item 3-->
