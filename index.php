@@ -195,7 +195,7 @@
                 </div>
                 <!-- Team Item 2-->
                 <div class="card mx-3 pt-1" style="width: 18rem;">
-                    <img src="assets/img/anon.jpg" class="card-img-top" alt="...">
+                    <img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/41947221_359750211429496_3343409830867081034_n.jpg?se=7&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=wMeNqbGwl18AX8-MDrP&edm=AABBvjUBAAAA&ccb=7-4&oh=50e123d027e37bd53c6f7a7fb343d1ec&oe=616992BB&_nc_sid=83d603%22=src%3D%22https%3A%2F%2Fscontent-cgk1-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F41947221_359750211429496_3343409830867081034_n.jpg%3Fse%3D7%26_nc_ht%3Dscontent-cgk1-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3DwMeNqbGwl18AX8-MDrP%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D50e123d027e37bd53c6f7a7fb343d1ec%26oe%3D616992BB%26_nc_sid%3D83d603%22&rlz=1C1CHBF_enID885ID885&oq=src%3D%22https%3A%2F%2Fscontent-cgk1-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F41947221_359750211429496_3343409830867081034_n.jpg%3Fse%3D7%26_nc_ht%3Dscontent-cgk1-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3DwMeNqbGwl18AX8-MDrP%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D50e123d027e37bd53c6f7a7fb343d1ec%26oe%3D616992BB%26_nc_sid%3D83d603%22&aqs=chrome..69i57.347j0j4&sourceid=chrome&ie=UTF-8" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Ghozy</h5>
                         <p class="card-text">Mobile & Web Front End </p>
@@ -218,6 +218,8 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/adiyusuf489/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
+                        <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/6287812433936"><i
+                                class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
 
@@ -238,13 +240,7 @@
             <!-- Contact Section Form-->
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-7">
-                    <!-- * * * * * * * * * * * * * * *-->
-                    <!-- * * SB Forms Contact Form * *-->
-                    <!-- * * * * * * * * * * * * * * *-->
-                    <!-- This form is pre-integrated with SB Forms.-->
-                    <!-- To make this form functional, sign up at-->
-                    <!-- https://startbootstrap.com/solution/contact-forms-->
-                    <!-- to get an API token!-->
+                 
                     <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                         <!-- Name input-->
                         <div class="form-floating mb-3">
