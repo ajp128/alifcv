@@ -316,7 +316,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">VeggieFun</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -327,9 +327,8 @@
                                 <img class="img-fluid rounded mb-5" src="https://i.ibb.co/frc4Fwp/Veggie-Fun.png"
                                     alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+                                <p class="mb-4">pertamakali dalam membuat UI untuk Apps skripsi saya. untuk saat ini masih dalam proses Re-Design.
+                                    untuk selengkapnya bisa diklik <a href="https://www.figma.com/file/E8SrbYMVES97cemVbwFgw1/VeggieFun">link</a> berikut ini.
                                 </p>
                             </div>
                         </div>
@@ -350,7 +349,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Klinik Hijau Putih</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -361,9 +360,8 @@
                                 <img class="img-fluid rounded mb-5"
                                     src="https://i.ibb.co/kMqyw4s/Klinik-Hijau-Putih.png" alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+                                <p class="mb-4">Project Freelance pertama saya dalam pembuatan UI untuk sebuah klinik kesehatan. untuk melihat detailnya bisa klik 
+                                    <a href="https://www.figma.com/file/IWb5T5U0IDHl57dut5C4fN/Klinik-Hijau-Putih">link</a> berikut
                                 </p>
                             </div>
                         </div>
