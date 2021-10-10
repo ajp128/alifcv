@@ -209,7 +209,7 @@
                 </div>
                 <!-- Team Item 3-->
                 <div class="card mx-3 pt-1" style="width: 18rem;">
-                    <img src="assets/img/anon.jpg" class="card-img-top" alt="...">
+                    <img src="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/241807780_4325109074247684_6774978631003905387_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFd37dhHxdkBGt2fQVkilJ4F7fc6gGZ9KMXt9zqAZn0owHxA9SpVbOAG2OU0x8tsgBKeOWDDvtGeysy-Fec10CU&_nc_ohc=_7W6dJitELcAX869_or&_nc_ht=scontent-cgk1-2.xx&oh=19b288da223279de9eaf352d424d470c&oe=6188D7D7" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Adi Yusuf</h5>
                         <p class="card-text">Back End</p>
