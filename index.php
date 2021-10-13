@@ -7,23 +7,22 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Hello! Welcome to My Final Project</title>
-    <!-- Favicon-->
+
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-    <!-- Font Awesome icons (free version)-->
+
     <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
-    <!-- Google fonts-->
+
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
         type="text/css" />
-    <!-- Core theme CSS (includes Bootstrap)-->
+    >
     <link href="css/styles.css" rel="stylesheet" />
 </head>
 
 <body id="page-top">
-    <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg bg-dark text-uppercase fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="#page-top">Alif CV</a>
+            <a class="navbar-brand text-warning" href="#page-top">Alif CV</a>
             <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button"
                 data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -46,39 +45,27 @@
             </div>
         </div>
     </nav>
-    <!-- Masthead-->
-    <header class="masthead bg-primary text-white text-center">
-        <div class="container d-flex align-items-center flex-column">
-            <!-- Masthead Avatar Image-->
+    <div class="jumbotron text-warning"
+        style="background-image: url(assets/img/background.gif); background-size:cover;">
+        <div class=" container d-flex align-items-center flex-column">
+
             <img class="masthead-avatar mb-5" src="assets/img/profile1.png" alt="..." />
-            <!-- Masthead Heading-->
+
             <h1 class="masthead-heading text-uppercase mb-0">ALif Jati Pratama</h1>
-            <!-- Icon Divider-->
-            <div class="divider-custom divider-light">
-                <div class="divider-custom-line"></div>
-                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                <div class="divider-custom-line"></div>
-            </div>
-            <!-- Masthead Subheading-->
+
             <p class="masthead-subheading font-weight-light mb-0">QA/QC - UI/UX</p>
         </div>
-    </header>
 
-    <!-- About Section-->
-    <section class="page-section bg-primary text-white mb-0" id="about">
+    </div>
+
+    <section class="page-section bg-black text-warning mb-0" id="about">
         <div class="container">
-            <!-- About Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
-            <!-- Icon Divider-->
+            <h2 class="page-section-heading text-center text-uppercase text-warning">About</h2>
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
                 <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                 <div class="divider-custom-line"></div>
-
             </div>
-            <!-- About Section Content-->
-
-
             <div class="me-auto text-center">
                 <p class="lead">Hello! My Name is Alif Jati Pratama, You can call me Alif. <br>
                     I am a Fresh graduate with a basic knowledge of web development and design. <br>
@@ -87,20 +74,18 @@
         </div>
 
     </section>
-    <!-- Portfolio Section-->
-    <section class="page-section portfolio" id="portfolio">
+
+    <section class="page-section portfolio bg-warning" id="portfolio">
         <div class="container">
-            <!-- Portfolio Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
-            <!-- Icon Divider-->
+            <h2 class="page-section-heading text-center text-uppercase text-dark mb-0">Portfolio</h2>
+
             <div class="divider-custom">
                 <div class="divider-custom-line"></div>
                 <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
-            <!-- Portfolio Grid Items-->
+
             <div class="row justify-content-center">
-                <!-- Portfolio Item 1-->
                 <div class="col-md-6 col-lg-4 mb-5">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
                         <div
@@ -166,10 +151,10 @@
             </div>
         </div>
     </section>
-    <section class="page-section team" id="team">
+    <section class="page-section bg-warning team" id="team">
         <div class="container">
             <!-- Team Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Team</h2>
+            <h2 class="page-section-heading text-center text-uppercase text-dark mb-0">Team</h2>
             <!-- Icon Divider-->
             <div class="divider-custom">
                 <div class="divider-custom-line"></div>
@@ -179,7 +164,7 @@
             <!-- Team Grid Items-->
             <div class="row justify-content-center">
                 <!-- Team Item 1-->
-                <div class="card mx-3" style="width: 18rem;">
+                <div class="card py-3 mx-3" style="width: 18rem;">
                     <img src="assets/img/profile.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Alif Jati P</h5>
@@ -189,13 +174,14 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/alip_87/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
-                         <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/6283815150606"><i
+                        <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/6283815150606"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <!-- Team Item 2-->
-                <div class="card mx-3 pt-1" style="width: 18rem;">
-                    <img src="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.6435-9/69700390_3753397184686525_4130825384092499968_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFmDapLeu44nsX4jysfVJ8XAh_Cgw0YaVMCH8KDDRhpU3-RDFnI_eIMPyKWCkSWuLfuf_KJ5W5hPNzh5cb639De&_nc_ohc=QoTCmhmQTpQAX-_8JsR&_nc_ht=scontent-cgk1-1.xx&oh=28050ff9314d2f235f4d242b30ec9123&oe=6186E847" class="card-img-top" alt="...">
+                <div class="card py-3 mx-3" style="width: 18rem;">
+                    <img src="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.6435-9/69700390_3753397184686525_4130825384092499968_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFmDapLeu44nsX4jysfVJ8XAh_Cgw0YaVMCH8KDDRhpU3-RDFnI_eIMPyKWCkSWuLfuf_KJ5W5hPNzh5cb639De&_nc_ohc=QoTCmhmQTpQAX-_8JsR&_nc_ht=scontent-cgk1-1.xx&oh=28050ff9314d2f235f4d242b30ec9123&oe=6186E847"
+                        class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Ghozy</h5>
                         <p class="card-text">Mobile & Web Front End </p>
@@ -203,13 +189,14 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/ghozay19/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
-                         <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/628111443199"><i
+                        <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/628111443199"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <!-- Team Item 3-->
-                <div class="card mx-3 pt-1" style="width: 18rem;">
-                    <img src="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/241807780_4325109074247684_6774978631003905387_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFd37dhHxdkBGt2fQVkilJ4F7fc6gGZ9KMXt9zqAZn0owHxA9SpVbOAG2OU0x8tsgBKeOWDDvtGeysy-Fec10CU&_nc_ohc=_7W6dJitELcAX869_or&_nc_ht=scontent-cgk1-2.xx&oh=19b288da223279de9eaf352d424d470c&oe=6188D7D7" class="card-img-top" alt="...">
+                <div class="card py-3 mx-3" style="width: 18rem;">
+                    <img src="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/241807780_4325109074247684_6774978631003905387_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFd37dhHxdkBGt2fQVkilJ4F7fc6gGZ9KMXt9zqAZn0owHxA9SpVbOAG2OU0x8tsgBKeOWDDvtGeysy-Fec10CU&_nc_ohc=_7W6dJitELcAX869_or&_nc_ht=scontent-cgk1-2.xx&oh=19b288da223279de9eaf352d424d470c&oe=6188D7D7"
+                        class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Adi Yusuf</h5>
                         <p class="card-text">Back End</p>
@@ -227,10 +214,10 @@
         </div>
     </section>
     <!-- Contact Section-->
-    <section class="page-section" id="contact">
+    <section class="page-section bg-warning" id="contact">
         <div class="container">
             <!-- Contact Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+            <h2 class="page-section-heading text-center text-uppercase text-dark mb-0">Contact Me</h2>
             <!-- Icon Divider-->
             <div class="divider-custom">
                 <div class="divider-custom-line"></div>
@@ -240,58 +227,52 @@
             <!-- Contact Section Form-->
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-7">
-                 
                     <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                         <!-- Name input-->
                         <div class="form-floating mb-3">
-                            <input class="form-control" id="name" type="text" placeholder="Enter your name..."
-                                data-sb-validations="required" />
+                            <input class="form-control bg-warning text-dark" id="name" type="text"
+                                placeholder="Enter your name..." data-sb-validations="required" />
                             <label for="name">Full name</label>
                             <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                         </div>
                         <!-- Email address input-->
                         <div class="form-floating mb-3">
-                            <input class="form-control" id="email" type="email" placeholder="name@example.com"
-                                data-sb-validations="required,email" />
+                            <input class="form-control bg-warning text-dark" id="email" type="email"
+                                placeholder="name@example.com" data-sb-validations="required,email" />
                             <label for="email">Email address</label>
-                            <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+                            <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.
+                            </div>
                             <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                         </div>
                         <!-- Phone number input-->
                         <div class="form-floating mb-3">
-                            <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890"
-                                data-sb-validations="required" />
+                            <input class="form-control bg-warning text-dark" id="phone" type="tel"
+                                placeholder="(123) 456-7890" data-sb-validations="required" />
                             <label for="phone">Phone number</label>
-                            <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.
+                            <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is
+                                required.
                             </div>
                         </div>
                         <!-- Message input-->
                         <div class="form-floating mb-3">
-                            <textarea class="form-control" id="message" type="text"
+                            <textarea class="form-control bg-warning text-dark" id="message" type="text"
                                 placeholder="Enter your message here..." style="height: 10rem"
                                 data-sb-validations="required"></textarea>
                             <label for="message">Message</label>
                             <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.
                             </div>
                         </div>
-                        <!-- Submit success message-->
-                        <!---->
-                        <!-- This is what your users will see when the form-->
-                        <!-- has successfully submitted-->
                         <div class="d-none" id="submitSuccessMessage">
                             <div class="text-center mb-3">
                                 <div class="fw-bolder">Form submission successful, Thankyou!</div>
                             </div>
                         </div>
-                        <!-- Submit error message-->
-                        <!---->
-                        <!-- This is what your users will see when there is-->
-                        <!-- an error submitting the form-->
                         <div class="d-none" id="submitErrorMessage">
                             <div class="text-center text-danger mb-3">Error sending message!</div>
                         </div>
                         <!-- Submit Button-->
-                        <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Send</button>
+                        <button class="btn btn-warning text-dark btn-xl disabled" id="submitButton"
+                            type="submit">Send</button>
                     </form>
                 </div>
             </div>
@@ -316,7 +297,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">VeggieFun</h2>
+                                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">VeggieFun</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -327,8 +308,11 @@
                                 <img class="img-fluid rounded mb-5" src="https://i.ibb.co/frc4Fwp/Veggie-Fun.png"
                                     alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">pertamakali dalam membuat UI untuk Apps skripsi saya. untuk saat ini masih dalam proses Re-Design.
-                                    untuk selengkapnya bisa diklik <a href="https://www.figma.com/file/E8SrbYMVES97cemVbwFgw1/VeggieFun">link</a> berikut ini.
+                                <p class="mb-4">pertamakali dalam membuat UI untuk Apps skripsi saya. untuk saat ini
+                                    masih dalam proses Re-Design.
+                                    untuk selengkapnya bisa diklik <a
+                                        href="https://www.figma.com/file/E8SrbYMVES97cemVbwFgw1/VeggieFun">link</a>
+                                    berikut ini.
                                 </p>
                             </div>
                         </div>
@@ -349,7 +333,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Klinik Hijau Putih</h2>
+                                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Klinik Hijau Putih
+                                </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -360,8 +345,11 @@
                                 <img class="img-fluid rounded mb-5"
                                     src="https://i.ibb.co/kMqyw4s/Klinik-Hijau-Putih.png" alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Project Freelance pertama saya dalam pembuatan UI untuk sebuah klinik kesehatan. untuk melihat detailnya bisa klik 
-                                    <a href="https://www.figma.com/file/IWb5T5U0IDHl57dut5C4fN/Klinik-Hijau-Putih">link</a> berikut
+                                <p class="mb-4">Project Freelance pertama saya dalam pembuatan UI untuk sebuah klinik
+                                    kesehatan. untuk melihat detailnya bisa klik
+                                    <a
+                                        href="https://www.figma.com/file/IWb5T5U0IDHl57dut5C4fN/Klinik-Hijau-Putih">link</a>
+                                    berikut
                                 </p>
                             </div>
                         </div>
@@ -382,7 +370,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent
+                                </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -392,9 +381,11 @@
                                 <!-- Portfolio Modal - Image-->
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
+                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
+                                    neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque.
+                                    Nam.
                                 </p>
                                 <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
@@ -429,9 +420,11 @@
                                 <!-- Portfolio Modal - Image-->
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
+                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
+                                    neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque.
+                                    Nam.
                                 </p>
                                 <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
@@ -456,7 +449,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe
+                                </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -466,9 +460,11 @@
                                 <!-- Portfolio Modal - Image-->
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
+                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
+                                    neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque.
+                                    Nam.
                                 </p>
                                 <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
@@ -504,9 +500,11 @@
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png"
                                     alt="..." />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
+                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
+                                    neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque.
+                                    Nam.
                                 </p>
                                 <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                     <i class="fas fa-times fa-fw"></i>
