@@ -271,7 +271,7 @@
                             <div class="text-center text-danger mb-3">Error sending message!</div>
                         </div>
                         <!-- Submit Button-->
-                        <button class="btn btn-black text-yellow btn-xl disabled" id="submitButton"
+                        <button class="btn btn-dark text-yellow btn-xl disabled" id="submitButton"
                             type="submit">Send</button>
                     </form>
                 </div>
