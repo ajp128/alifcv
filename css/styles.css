@@ -2560,7 +2560,6 @@ textarea.form-control-lg {
 .btn-check[disabled] + .btn, .btn-check:disabled + .btn {
   pointer-events: none;
   filter: none;
-  opacity: 0.65;
 }
 
 .form-range {
@@ -3236,23 +3235,23 @@ textarea.form-control-lg {
 
 .btn-dark {
   color: #fff;
-  background-color: #212529;
+  background-color: #000;
   border-color: #212529;
 }
 .btn-dark:hover {
   color: #fff;
-  background-color: #1c1f23;
+  background-color: #000;
   border-color: #1a1e21;
 }
 .btn-check:focus + .btn-dark, .btn-dark:focus {
   color: #fff;
-  background-color: #1c1f23;
+  background-color: #000;
   border-color: #1a1e21;
   box-shadow: 0 0 0 0.25rem rgba(66, 70, 73, 0.5);
 }
 .btn-check:checked + .btn-dark, .btn-check:active + .btn-dark, .btn-dark:active, .btn-dark.active, .show > .btn-dark.dropdown-toggle {
   color: #fff;
-  background-color: #1a1e21;
+  background-color: #000;
   border-color: #191c1f;
 }
 .btn-check:checked + .btn-dark:focus, .btn-check:active + .btn-dark:focus, .btn-dark:active:focus, .btn-dark.active:focus, .show > .btn-dark.dropdown-toggle:focus {
@@ -3260,7 +3259,7 @@ textarea.form-control-lg {
 }
 .btn-dark:disabled, .btn-dark.disabled {
   color: #fff;
-  background-color: #212529;
+  background-color: #000;
   border-color: #212529;
 }
 
