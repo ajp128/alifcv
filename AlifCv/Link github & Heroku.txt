@@ -1,2 +1,0 @@
-Github: https://github.com/ajp128/alifcv
-Heroku: alifcv.herokuapp.com 
