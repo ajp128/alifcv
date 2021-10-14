@@ -4508,9 +4508,9 @@ textarea.form-control-lg {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #000;
   background-clip: border-box;
-  border: 0.125rem solid rgb(0, 0, 0);
+  border: 0.125rem solid rgb(214, 203, 0);
   border-radius: 0.5rem;
 }
 .card > hr {
@@ -11462,7 +11462,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba( 214, 203, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.541);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
