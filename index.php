@@ -23,7 +23,7 @@
     <nav class="navbar navbar-expand-lg bg-dark text-uppercase fixed-top" id="mainNav">
         <div class="container">
             <a class="navbar-brand text-warning" href="#page-top">Alif CV</a>
-            <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button"
+            <button class="navbar-toggler text-uppercase font-weight-bold bg-warning text-dark rounded" type="button"
                 data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
                 aria-expanded="false" aria-label="Toggle navigation">
                 Menu
@@ -45,7 +45,7 @@
             </div>
         </div>
     </nav>
-    <div class="jumbotron text-warning"
+    <div class="jumbotron text-warning text-center"
         style="background-image: url(assets/img/background.gif); background-size:cover;">
         <div class=" container d-flex align-items-center flex-column">
 
@@ -164,48 +164,48 @@
             <!-- Team Grid Items-->
             <div class="row justify-content-center">
                 <!-- Team Item 1-->
-                <div class="card py-3 mx-3" style="width: 18rem;">
+                <div class="card text-warning py-3 my-2 mx-3" style="width: 18rem;">
                     <img src="assets/img/profile.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Alif Jati P</h5>
                         <p class="card-text">QA/QC & UI/UX</p>
-                        <a class="btn btn-outline-dark btn-social mx-1"
+                        <a class="btn btn-outline-warning btn-social mx-1"
                             href="https://www.linkedin.com/in/alif-jati-pratama-1761a5178/"><i
                                 class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/alip_87/"><i
+                        <a class="btn btn-outline-warning btn-social mx-1" href="https://www.instagram.com/alip_87/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/6283815150606"><i
+                        <a class="btn btn-outline-warning btn-social mx-1" href="wa.me/6283815150606"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <!-- Team Item 2-->
-                <div class="card py-3 mx-3" style="width: 18rem;">
+                <div class="card  text-warning py-3 my-2 mx-3" style="width: 18rem;">
                     <img src="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.6435-9/69700390_3753397184686525_4130825384092499968_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFmDapLeu44nsX4jysfVJ8XAh_Cgw0YaVMCH8KDDRhpU3-RDFnI_eIMPyKWCkSWuLfuf_KJ5W5hPNzh5cb639De&_nc_ohc=QoTCmhmQTpQAX-_8JsR&_nc_ht=scontent-cgk1-1.xx&oh=28050ff9314d2f235f4d242b30ec9123&oe=6186E847"
                         class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Ghozy</h5>
                         <p class="card-text">Mobile & Web Front End </p>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="https://www.linkedin.com/in/ghozay19/"><i
-                                class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/ghozay19/"><i
+                        <a class="btn btn-outline-warning btn-social mx-1"
+                            href="https://www.linkedin.com/in/ghozay19/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-warning btn-social mx-1" href="https://www.instagram.com/ghozay19/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/628111443199"><i
+                        <a class="btn btn-outline-warning btn-social mx-1" href="wa.me/628111443199"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <!-- Team Item 3-->
-                <div class="card py-3 mx-3" style="width: 18rem;">
+                <div class="card text-warning py-3 my-2 mx-3" style="width: 18rem;">
                     <img src="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/241807780_4325109074247684_6774978631003905387_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFd37dhHxdkBGt2fQVkilJ4F7fc6gGZ9KMXt9zqAZn0owHxA9SpVbOAG2OU0x8tsgBKeOWDDvtGeysy-Fec10CU&_nc_ohc=_7W6dJitELcAX869_or&_nc_ht=scontent-cgk1-2.xx&oh=19b288da223279de9eaf352d424d470c&oe=6188D7D7"
                         class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Adi Yusuf</h5>
                         <p class="card-text">Back End</p>
-                        <a class="btn btn-outline-dark btn-social mx-1"
+                        <a class="btn btn-outline-warning btn-social mx-1"
                             href="https://www.linkedin.com/in/muhammad-adi-yusuf-ba8617185/"><i
                                 class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="https://www.instagram.com/adiyusuf489/"><i
-                                class="fab fa-fw fa-instagram"></i></a>
-                        <a class="btn btn-outline-dark btn-social mx-1" href="wa.me/6287812433936"><i
+                        <a class="btn btn-outline-warning btn-social mx-1"
+                            href="https://www.instagram.com/adiyusuf489/"><i class="fab fa-fw fa-instagram"></i></a>
+                        <a class="btn btn-outline-warning btn-social mx-1" href="wa.me/6287812433936"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
@@ -281,7 +281,7 @@
     <!-- Footer-->
 
     <!-- Copyright Section-->
-    <div class="copyright py-4 text-center bg-dark text-warning">
+    <div class="copyright bg-dark py-4 text-center text-white">
         <div class="container"><small>Copyright &copy; Alif CV 2021</small></div>
     </div>
     <!-- Portfolio Modals-->
@@ -358,7 +358,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 3-->
+    <!-- will used if i had more portfolio to show
     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" aria-labelledby="portfolioModal3"
         aria-hidden="true">
         <div class="modal-dialog modal-xl">
@@ -369,18 +369,18 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent
+                                
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Coming soon
                                 </h2>
-                                <!-- Icon Divider-->
+                                
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
                                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
+                               
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
-                                <!-- Portfolio Modal - Text-->
+                                
                                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
                                     neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
@@ -398,7 +398,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 4-->
+   
     <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" aria-labelledby="portfolioModal4"
         aria-hidden="true">
         <div class="modal-dialog modal-xl">
@@ -409,17 +409,17 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
-                                <!-- Icon Divider-->
+                               
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Coming soon</h2>
+                               
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
                                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
+                              
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
-                                <!-- Portfolio Modal - Text-->
+                              
                                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
                                     neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
@@ -437,7 +437,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 5-->
+    
     <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" aria-labelledby="portfolioModal5"
         aria-hidden="true">
         <div class="modal-dialog modal-xl">
@@ -448,18 +448,18 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe
+                              
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Coming soon
                                 </h2>
-                                <!-- Icon Divider-->
+                                
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
                                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
+                              
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
-                                <!-- Portfolio Modal - Text-->
+                               
                                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
                                     neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
@@ -477,7 +477,7 @@
             </div>
         </div>
     </div>
-    <!-- Portfolio Modal 6-->
+    
     <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" aria-labelledby="portfolioModal6"
         aria-hidden="true">
         <div class="modal-dialog modal-xl">
@@ -488,18 +488,18 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
-                                <!-- Portfolio Modal - Title-->
+                                
                                 <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
-                                <!-- Icon Divider-->
+                                
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
                                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                     <div class="divider-custom-line"></div>
                                 </div>
-                                <!-- Portfolio Modal - Image-->
+                                
                                 <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png"
                                     alt="..." />
-                                <!-- Portfolio Modal - Text-->
+                               
                                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
                                     neque
                                     assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
@@ -517,11 +517,9 @@
             </div>
         </div>
     </div>
-    <!-- Bootstrap core JS-->
+-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
-  
     <script src="js/scripts.js"></script>
- 
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 </body>
 
