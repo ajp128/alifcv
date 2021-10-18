@@ -174,7 +174,7 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-warning btn-social mx-1" href="https://www.instagram.com/alip_87/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
-                        <a class="btn btn-outline-warning btn-social mx-1" href="wa.me/6283815150606"><i
+                        <a class="btn btn-outline-warning btn-social mx-1" href="http://wa.me/6283815150606"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                             href="https://www.linkedin.com/in/ghozay19/"><i class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-warning btn-social mx-1" href="https://www.instagram.com/ghozay19/"><i
                                 class="fab fa-fw fa-instagram"></i></a>
-                        <a class="btn btn-outline-warning btn-social mx-1" href="wa.me/628111443199"><i
+                        <a class="btn btn-outline-warning btn-social mx-1" href="http://wa.me/628111443199"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
@@ -205,7 +205,7 @@
                                 class="fab fa-fw fa-linkedin-in"></i></a>
                         <a class="btn btn-outline-warning btn-social mx-1"
                             href="https://www.instagram.com/adiyusuf489/"><i class="fab fa-fw fa-instagram"></i></a>
-                        <a class="btn btn-outline-warning btn-social mx-1" href="wa.me/6287812433936"><i
+                        <a class="btn btn-outline-warning btn-social mx-1" href="http://wa.me/6287812433936"><i
                                 class="fab fa-fw fa-whatsapp"></i></a>
                     </div>
                 </div>
